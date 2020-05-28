@@ -4,7 +4,7 @@
 
 ______
 
-## My Works
+## मेरा काम
 > ### [DifferentlyAbled](https://github.com/saurabhanand3390/DifferentlyAbled)
 > Helping others make make website more abled for Differently Abled people.
 
@@ -19,7 +19,7 @@ ______
 
 ______
 
-## My Works Experience
+## मेरा कार्य अनुभव
 > ### [Limetray](https://limetray.com)
 > *Worked as Web Designer & Developer for more than 3 Years.*<br>
 > *Html, Css, Javascript, Jquery, CMS - Web Builder, Foundation, Bootstrap*<br>
