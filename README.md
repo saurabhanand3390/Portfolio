@@ -13,16 +13,16 @@ ______
 > My First ReactJs Project - login and search components.
 
 > ### [WebDesigning](https://punjabibynature.in/)*** 
-> Some intial work - Designing Websites and Developing.
+> Some intial work - Designing & Developing Websites.
 
 > ### [WebDevelopment](https://limetray.com)
-> Some intial work - Websites Developing.
+> Some intial work - Developing Websites.
 
 ______
 
 ## My Works Experience
 > ### Limetray
-> *Worked as Website Designer & Developer for more than 3 Years.*
+> *Worked as Web Designer & Developer for more than 3 Years.*
 > ### Jaypore.com
 > *Worked as Front End Developer for about 3 Months.*
 > ### 3Pillar Global
