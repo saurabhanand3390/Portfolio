@@ -3,3 +3,4 @@
 
 ______
 ![Coming Soon Page](assets/images/comingSoon.gif)
+- <img src="assets/images/comingSoon.gif" alt="Coming Soon Page" width="100%">
