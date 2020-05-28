@@ -22,8 +22,10 @@ ______
 ## My Works Experience
 > ### Limetray
 > *Worked as Web Designer & Developer for more than 3 Years.*
+
 > ### Jaypore.com
 > *Worked as Front End Developer for about 3 Months.*
+
 > ### 3Pillar Global
 > *Currently working as Software Engineer for about 2 Years.*
 
